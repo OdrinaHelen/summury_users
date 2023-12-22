@@ -1,7 +1,7 @@
 import React from 'react';
 import classes from './eachUser.module.css'
 
-const EachUser = ({ user }) => {
+const EachUser = ({ ...user }) => {
   return (
     <div>
       <h2>{user.name}</h2>

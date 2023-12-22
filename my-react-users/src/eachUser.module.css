@@ -1,4 +1,9 @@
 div{
-    border: 2px solid greenyellow;
-    
+    border: 2px solid white;
+    background-color: black;
+    color: beige;
+
+}
+h2{
+    color: white;
 }
